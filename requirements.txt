@@ -1,0 +1,4 @@
+click=6.7
+gmusicapi==11.0.0
+pyjq==2.1.0
+
